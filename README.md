@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vader97
 - 👀 I’m interested in ... Backend Engineering and Databases
 - 🌱 I’m currently learning ... Rust
-- 📫 How to reach me ...  kumarnaveen@duck.com
+- 📫 How to reach me ...  naveen10rajput@gmail.com
 
 <!---
 vader97/vader97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
